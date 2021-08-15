@@ -4,7 +4,7 @@
 
 ## week 1
 
-   ### Лекция 1
+   #### Лекция 1
     
         1. Пара слов о возникновении языка
             (https://www.python-course.eu/python3_history_and_philosophy.php)
@@ -19,7 +19,7 @@
         6. Арифметические операторы и операторы сравнения
             (https://www.python-course.eu/python3_operators.php)
            
-   ### Лекция 2
+   #### Лекция 2
     
         1. Знакомство со строками
             (https://www.python-course.eu/python3_variables.php)
