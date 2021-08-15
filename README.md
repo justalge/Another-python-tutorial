@@ -54,5 +54,3 @@
 ...
 
 Планирую добавить (почти) все разделы отсюда https://www.python-course.eu/python3_course.php, отсда https://www.python-course.eu/object_oriented_programming_introduction.php и отсюда https://www.python-course.eu/advanced_python.php
-
-Доделаю за пару дней.. прошу прощения за отставание
