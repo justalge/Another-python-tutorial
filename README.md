@@ -14,7 +14,7 @@
             (https://www.python-course.eu/python3_execute_script.php)
         4. Структурирование при помощи отступов
             (https://www.python-course.eu/python3_blocks.php)
-        5. (**!**) Переменные в python и типы данных
+        5. **!** Переменные в python и типы данных
             (https://www.python-course.eu/python3_variables.php)
         6. Арифметические операторы и операторы сравнения
             (https://www.python-course.eu/python3_operators.php)
