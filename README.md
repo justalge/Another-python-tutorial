@@ -176,14 +176,14 @@
 
 ## week 7
 
-   #### Лекция 14
+   #### Лекция 13
     
   1. matplotlib
   2. seaborn
   3. itertools
   5. requests
 
-   #### Лекция 13
+   #### Лекция 14
     
   1. pandas
   2. numpy
