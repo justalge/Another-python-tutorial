@@ -68,38 +68,28 @@
       (https://www.python-course.eu/python3_functions.php)
   2. Передача параметров функции в Python
       (https://www.python-course.eu/python3_passing_arguments.php)
-  3. Области видимости (namespaces)
+  3. Декораторы функций
+      (https://www.python-course.eu/python3_decorators.php)
+  4. Области видимости (namespaces)
       (https://www.python-course.eu/python3_namespaces.php)
-  4. Глобальные и локальные переменные
+  5. Глобальные и локальные переменные
       (https://www.python-course.eu/python3_formatted_output.php)
-           
+      
    #### Лекция 6
-    
-  1. Чтение и запись файлов. Модуль Pickle
-      (https://www.python-course.eu/python3_file_management.php)
-  2. Система импорта модулей в Python
-      (https://www.python-course.eu/python3_modules_and_modular_programming.php)
-  3. Пакеты в Python
-      (https://www.python-course.eu/python3_packages.php)
-  4. Исключения
-      (https://www.python-course.eu/python3_exception_handling.php)
+     
+  1. Рекурсия. Мемоизация
+      (https://www.python-course.eu/python3_recursive_functions.php)
+  3. Ханойские башни
+  2. Backtracking
+      (https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/)
+  3. Сведение рекурсии к итерации. Tailing recursion
+      (https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/)
 
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 4
-
+      
    #### Лекция 7
-    
-  1. Функции
-      (https://www.python-course.eu/python3_functions.php)
-  2. Передача параметров функции в Python
-      (https://www.python-course.eu/python3_passing_arguments.php)
-  3. Области видимости (namespaces)
-      (https://www.python-course.eu/python3_namespaces.php)
-  4. Глобальные и локальные переменные
-      (https://www.python-course.eu/python3_formatted_output.php)
-           
-   #### Лекция 8
     
   1. Чтение и запись файлов. Модуль Pickle
       (https://www.python-course.eu/python3_file_management.php)
@@ -111,23 +101,25 @@
       (https://iq-inc.com/importerror-attempted-relative-import/)
   6. Исключения
       (https://www.python-course.eu/python3_exception_handling.php)
+      
+   #### Лекция 8
+    
+  1. ООП. Основные идеи. Зачем?
+      (https://www.python-course.eu/python3_object_oriented_programming.php)
+  2. Классы, объекты (class instances), атрибуты, методы
+      (https://www.python-course.eu/python3_class_and_instance_attributes.php)
+  3. Декораторы классов
+      (https://www.python-course.eu/python3_decorators.php)
+  4. Свойства объектов (properties). Getters и setters
+      (https://www.python-course.eu/python3_properties.php)
+  5. Дескрипторы
+      (https://www.python-course.eu/python3_descriptors.php)
 
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 5
 
    #### Лекция 9
-    
-  1. ООП. Основные идеи. Зачем?
-      (https://www.python-course.eu/python3_object_oriented_programming.php)
-  2. Классы, объекты (class instances), атрибуты, методы
-      (https://www.python-course.eu/python3_class_and_instance_attributes.php)
-  3. Свойства объектов (properties). Getters и setters
-      (https://www.python-course.eu/python3_properties.php)
-  4. Дескрипторы
-      (https://www.python-course.eu/python3_descriptors.php)
-           
-   #### Лекция 10
     
   1. Наследование
       (https://www.python-course.eu/python3_inheritance.php)
@@ -140,22 +132,22 @@
   5. Magic-методы и перегрузка операторов
       (https://www.python-course.eu/python3_magic_methods.php)
   6. Значения underscore в Python
-      (https://dbader.org/blog/meaning-of-underscores-in-python)
+      (https://dbader.org/blog/meaning-of-underscores-in-python)  
       
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 6
-
-   #### Лекция 11
+   #### Лекция 10
     
   1. Callable классы
       (https://www.python-course.eu/callable_instances.php)
   2. Слоты (slots)
       (https://www.python-course.eu/python3_slots.php)
   3. Пример класса для полиномиальных функций
-      (https://www.python-course.eu/polynomial_class_in_python.php)
-           
-   #### Лекция 12
+      (https://www.python-course.eu/polynomial_class_in_python.php)   
+      
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 6
+
+   #### Лекция 11
     
   1. Взаимосвязь между class и type
       (https://www.python-course.eu/python3_classes_and_type.php)
@@ -167,4 +159,19 @@
       (https://www.python-course.eu/python3_count_function_calls.php)
   5. Abstract base classes (ABC)
       (https://www.python-course.eu/python3_abstract_classes.php)
+      
+   #### Лекция 12
+    
+  1. Разница между iterator (итераторы) и iterable
+      (https://www.python-course.eu/python3_iterable_iterator.php)
+  2. Итераторы и генераторы
+      (https://www.python-course.eu/python3_generators.php)
+  3. Пример класса для полиномиальных функций
+      (https://www.python-course.eu/polynomial_class_in_python.php)     
+      
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 7
+
+
 
