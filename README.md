@@ -55,7 +55,9 @@
       (https://www.python-course.eu/python3_loops.php)
   3. Циклы 2. For loops
       (https://www.python-course.eu/python3_for_loop.php)
-  4. Примеры с использованием циклов и словарей
+  4. List comprehensions
+      (https://www.python-course.eu/python3_list_comprehension.php)
+  5. Примеры с использованием циклов и словарей
       (https://www.python-course.eu/working_with_python_dictionaries.php)
 
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
@@ -76,13 +78,14 @@
       (https://www.python-course.eu/python3_formatted_output.php)
       
    #### Лекция 6
-     
-  1. Рекурсия. Мемоизация
+  1. Лямбда функции, filter, reduce, map, zip
+      (https://www.python-course.eu/python3_list_comprehension.php)   
+  2. Рекурсия. Мемоизация
       (https://www.python-course.eu/python3_recursive_functions.php)
   3. Ханойские башни
-  2. Backtracking
+  4. Backtracking
       (https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/)
-  3. Сведение рекурсии к итерации. Tailing recursion
+  5. Сведение рекурсии к итерации. Tailing recursion
       (https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/)
 
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
@@ -167,11 +170,21 @@
   2. Итераторы и генераторы
       (https://www.python-course.eu/python3_generators.php)
   3. Пример класса для полиномиальных функций
-      (https://www.python-course.eu/polynomial_class_in_python.php)     
+      (https://www.python-course.eu/polynomial_class_in_python.php)
       
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 7
 
+   #### Лекция 14
+    
+  1. matplotlib
+  2. seaborn
+  3. itertools
+  5. requests
 
-
+   #### Лекция 13
+    
+  1. pandas
+  2. numpy
+  3. scipy
