@@ -14,12 +14,28 @@
       (https://www.python-course.eu/python3_execute_script.php)
   4. Структурирование при помощи отступов
       (https://www.python-course.eu/python3_blocks.php)
-  5. Арифметические операторы и операторы сравнения
+  5. Целые числа, арифметические операторы и операторы сравнения
       (https://www.python-course.eu/python3_operators.php)
   6. Input и output
       (https://www.python-course.eu/python3_input.php, https://www.python-course.eu/python3_print.php)
-           
+
    #### Лекция 2
+
+  1. Условные выражения
+      (https://www.python-course.eu/python3_conditional_statements.php)
+  2. Циклы 1. While loops
+      (https://www.python-course.eu/python3_loops.php)
+  3. Циклы 2. For loops
+      (https://www.python-course.eu/python3_for_loop.php)
+  4. Вещественные числа в Python (https://tirinox.ru/float-python/)
+  5. Форматированный вывод
+      (https://www.python-course.eu/python3_formatted_output.php)
+
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 2
+
+   #### Лекция 3
    
   1. **(!)** Переменные в python и типы данных
       (https://www.python-course.eu/python3_variables.php)
@@ -29,14 +45,12 @@
       (https://www.python-course.eu/python3_sequential_data_types.php)
   4. Манипуляции со списками
       (https://www.python-course.eu/python3_list_manipulation.php)
-  5. Shallow и deep копирование объектов в python
+  6. List comprehensions
+      (https://www.python-course.eu/python3_list_comprehension.php)
+  7. Shallow и deep копирование объектов в python
       (https://www.python-course.eu/python3_deep_copy.php)
-
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 2
-
-   #### Лекция 3
+ 
+   #### Лекция 4
     
   1. Словари (dictionaries)
       (https://www.python-course.eu/python3_dictionaries.php)
@@ -44,20 +58,7 @@
       (https://www.python-course.eu/python3_sets_frozensets.php)
   3. Примеры использования множеств
       (https://www.python-course.eu/python_sets_example.php)
-  4. Форматированный вывод
-      (https://www.python-course.eu/python3_formatted_output.php)
-           
-   #### Лекция 4
-    
-  1. Условные выражения
-      (https://www.python-course.eu/python3_conditional_statements.php)
-  2. Циклы 1. While loops
-      (https://www.python-course.eu/python3_loops.php)
-  3. Циклы 2. For loops
-      (https://www.python-course.eu/python3_for_loop.php)
-  4. List comprehensions
-      (https://www.python-course.eu/python3_list_comprehension.php)
-  5. Примеры с использованием циклов и словарей
+  4. Примеры с использованием циклов и словарей
       (https://www.python-course.eu/working_with_python_dictionaries.php)
 
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
