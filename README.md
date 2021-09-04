@@ -66,7 +66,11 @@
 ## week 3
 
    #### Лекция 5
-    
+   
+  Защита дз 1-4
+      
+   #### Лекция 6
+   
   1. Функции
       (https://www.python-course.eu/python3_functions.php)
   2. Передача параметров функции в Python
@@ -76,9 +80,14 @@
   4. Области видимости (namespaces)
       (https://www.python-course.eu/python3_namespaces.php)
   5. Глобальные и локальные переменные
-      (https://www.python-course.eu/python3_formatted_output.php)
+      (https://www.python-course.eu/python3_formatted_output.php)   
+
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 4
       
-   #### Лекция 6
+   #### Лекция 7
+   
   1. Лямбда функции, filter, reduce, map, zip
       (https://www.python-course.eu/python3_list_comprehension.php)   
   2. Рекурсия. Мемоизация
@@ -87,13 +96,9 @@
   4. Backtracking
       (https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/)
   5. Сведение рекурсии к итерации. Tailing recursion
-      (https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/)
-
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 4
-      
-   #### Лекция 7
+      (https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/)   
+   
+   #### Лекция 8   
     
   1. Чтение и запись файлов. Модуль Pickle
       (https://www.python-course.eu/python3_file_management.php)
@@ -108,6 +113,14 @@
       
    #### Лекция 8
     
+
+
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 5
+
+   #### Лекция 9
+ 
   1. ООП. Основные идеи. Зачем?
       (https://www.python-course.eu/python3_object_oriented_programming.php)
   2. Классы, объекты (class instances), атрибуты, методы
@@ -117,14 +130,14 @@
   4. Свойства объектов (properties). Getters и setters
       (https://www.python-course.eu/python3_properties.php)
   5. Дескрипторы
-      (https://www.python-course.eu/python3_descriptors.php)
+      (https://www.python-course.eu/python3_descriptors.php) 
+ 
+   #### Лекция 10
+   
+  Защита дз 6-9
+      
+   #### Лекция 10
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 5
-
-   #### Лекция 9
-    
   1. Наследование
       (https://www.python-course.eu/python3_inheritance.php)
   2. Пример с наследованием
@@ -136,23 +149,25 @@
   5. Magic-методы и перегрузка операторов
       (https://www.python-course.eu/python3_magic_methods.php)
   6. Значения underscore в Python
-      (https://dbader.org/blog/meaning-of-underscores-in-python)  
-      
-   #### Лекция 10
-    
-  1. Callable классы
-      (https://www.python-course.eu/callable_instances.php)
-  2. Слоты (slots)
-      (https://www.python-course.eu/python3_slots.php)
-  3. Пример класса для полиномиальных функций
-      (https://www.python-course.eu/polynomial_class_in_python.php)   
+      (https://dbader.org/blog/meaning-of-underscores-in-python)
       
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 6
 
    #### Лекция 11
-    
+   
+  1. Callable классы
+      (https://www.python-course.eu/callable_instances.php)
+  2. Слоты (slots)
+      (https://www.python-course.eu/python3_slots.php)
+  3. Пример класса для полиномиальных функций
+      (https://www.python-course.eu/polynomial_class_in_python.php)  
+  4. Abstract base classes (ABC)
+      (https://www.python-course.eu/python3_abstract_classes.php)
+
+   #### Лекция 12
+
   1. Взаимосвязь между class и type
       (https://www.python-course.eu/python3_classes_and_type.php)
   2. Метаклассы. Мотивация
@@ -161,31 +176,24 @@
       (https://www.python-course.eu/python3_metaclasses.php)
   4. Метаклассы. Пример использования
       (https://www.python-course.eu/python3_count_function_calls.php)
-  5. Abstract base classes (ABC)
-      (https://www.python-course.eu/python3_abstract_classes.php)
-      
-   #### Лекция 12
-    
-  1. Разница между iterator (итераторы) и iterable
+  5. Разница между iterator (итераторы) и iterable
       (https://www.python-course.eu/python3_iterable_iterator.php)
-  2. Итераторы и генераторы
+  6. Итераторы и генераторы
       (https://www.python-course.eu/python3_generators.php)
-  3. Пример класса для полиномиальных функций
-      (https://www.python-course.eu/polynomial_class_in_python.php)
+
+ 
       
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 7
 
    #### Лекция 13
-    
-  1. matplotlib
-  2. seaborn
-  3. itertools
-  5. requests
-
+   
+  1. collections
+  2. itertools
+  3. requests
+  4. re
+      
    #### Лекция 14
-    
-  1. pandas
-  2. numpy
-  3. scipy
+  
+  Защита дз 10-13
