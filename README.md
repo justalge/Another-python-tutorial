@@ -1,6 +1,6 @@
 # Program
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 1
 
@@ -31,7 +31,7 @@
   5. Форматированный вывод
       (https://www.python-course.eu/python3_formatted_output.php)
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 2
 
@@ -61,7 +61,7 @@
   4. Примеры с использованием циклов и словарей
       (https://www.python-course.eu/working_with_python_dictionaries.php)
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 3
 
@@ -82,20 +82,20 @@
   5. Глобальные и локальные переменные
       (https://www.python-course.eu/python3_formatted_output.php)   
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 4
       
    #### Лекция 7
-   
-  1. Лямбда функции, filter, reduce, map, zip
+  1. Встроенная сортировка в Python
+  2. Лямбда функции, filter, reduce, map, zip
       (https://www.python-course.eu/python3_list_comprehension.php)   
-  2. Рекурсия. Мемоизация
+  3. Рекурсия. Мемоизация
       (https://www.python-course.eu/python3_recursive_functions.php)
-  3. Ханойские башни
-  4. Backtracking
+  4. Ханойские башни
+  5. Backtracking
       (https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/)
-  5. Сведение рекурсии к итерации. Tailing recursion
+  6. Сведение рекурсии к итерации. Tailing recursion
       (https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/)   
    
    #### Лекция 8   
@@ -110,12 +110,8 @@
       (https://iq-inc.com/importerror-attempted-relative-import/)
   6. Исключения
       (https://www.python-course.eu/python3_exception_handling.php)
-      
-   #### Лекция 8
-    
 
-
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 5
 
@@ -136,7 +132,11 @@
    
   Защита дз 6-9
       
-   #### Лекция 10
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 6
+
+   #### Лекция 11
 
   1. Наследование
       (https://www.python-course.eu/python3_inheritance.php)
@@ -151,11 +151,7 @@
   6. Значения underscore в Python
       (https://dbader.org/blog/meaning-of-underscores-in-python)
       
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 6
-
-   #### Лекция 11
+   #### Лекция 12
    
   1. Callable классы
       (https://www.python-course.eu/callable_instances.php)
@@ -166,7 +162,7 @@
   4. Abstract base classes (ABC)
       (https://www.python-course.eu/python3_abstract_classes.php)
 
-   #### Лекция 12
+   #### Лекция 13
 
   1. Взаимосвязь между class и type
       (https://www.python-course.eu/python3_classes_and_type.php)
@@ -183,17 +179,17 @@
 
  
       
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 ## week 7
 
-   #### Лекция 13
+   #### Лекция 14
    
   1. collections
   2. itertools
   3. requests
   4. re
       
-   #### Лекция 14
+   #### Лекция 15
   
   Защита дз 10-13
