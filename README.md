@@ -161,6 +161,10 @@
       (https://www.python-course.eu/polynomial_class_in_python.php)  
   4. Abstract base classes (ABC)
       (https://www.python-course.eu/python3_abstract_classes.php)
+      
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 7
 
    #### Лекция 13
 
@@ -177,19 +181,17 @@
   6. Итераторы и генераторы
       (https://www.python-course.eu/python3_generators.php)
 
- 
-      
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 7
-
    #### Лекция 14
    
   1. collections
   2. itertools
   3. requests
   4. re
-      
+
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 8
+
    #### Лекция 15
   
-  Защита дз 10-13
+  Защита дз 11-14
