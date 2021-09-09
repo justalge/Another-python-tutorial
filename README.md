@@ -5,7 +5,7 @@
 ## week 1
 
    #### Лекция 1
-    
+  https://colab.research.google.com/drive/1t8wOCobV2foXR-RMWR_sOAhYTrAcqYR_?usp=sharing
   1. Пара слов о возникновении языка. Некоторые различия Python2 и Python3
       (https://www.python-course.eu/python3_history_and_philosophy.php)
   2. Знакомство с python shell
