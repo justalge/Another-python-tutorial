@@ -41,6 +41,8 @@
 
    #### Лекция 3
    
+  https://colab.research.google.com/drive/1WwGAOzmL-dADihr9nN0R54578x8c_ac5?usp=sharing
+   
   1. **(!)** Переменные в python и типы данных
       (https://www.python-course.eu/python3_variables.php)
   2. Знакомство со строками
