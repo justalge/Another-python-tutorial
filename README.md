@@ -57,6 +57,8 @@
       (https://www.python-course.eu/python3_deep_copy.php)
  
    #### Лекция 4
+   
+  https://colab.research.google.com/drive/1d1pu_Y80Fuj3TWec9xyhI5X2LBT_rmiw?usp=sharing
     
   1. Словари (dictionaries)
       (https://www.python-course.eu/python3_dictionaries.php)
