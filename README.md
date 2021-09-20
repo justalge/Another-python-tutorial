@@ -88,7 +88,7 @@
   4. Области видимости (namespaces)
       (https://www.python-course.eu/python3_namespaces.php)
   5. Глобальные и локальные переменные
-      (https://www.python-course.eu/python3_formatted_output.php)   
+      (https://www.python-course.eu/python3_global_vs_local_variables.php)   
 
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
