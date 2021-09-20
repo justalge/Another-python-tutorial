@@ -78,7 +78,9 @@
   Защита дз 1-4
       
    #### Лекция 6
-   
+  
+  https://colab.research.google.com/drive/1vBdfg0YimUpBOjUFUmbYtGaEiozwE2E1?usp=sharing
+  
   1. Функции
       (https://www.python-course.eu/python3_functions.php)
   2. Передача параметров функции в Python
