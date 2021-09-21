@@ -75,10 +75,6 @@
 
    #### Лекция 5
    
-  Защита дз 1-4
-      
-   #### Лекция 6
-  
   https://colab.research.google.com/drive/1vBdfg0YimUpBOjUFUmbYtGaEiozwE2E1?usp=sharing
   
   1. Функции
@@ -91,12 +87,9 @@
       (https://www.python-course.eu/python3_namespaces.php)
   5. Глобальные и локальные переменные
       (https://www.python-course.eu/python3_global_vs_local_variables.php)   
-
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 4
       
-   #### Лекция 7
+   #### Лекция 6
+  
   1. Встроенная сортировка в Python
   2. Лямбда функции, filter, reduce, map, zip
       (https://www.python-course.eu/python3_list_comprehension.php)   
@@ -106,10 +99,14 @@
   5. Backtracking
       (https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/)
   6. Сведение рекурсии к итерации. Tailing recursion
-      (https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/)   
-   
-   #### Лекция 8   
-    
+      (https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/) 
+
+🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
+## week 4
+      
+   #### Лекция 7
+
   1. Чтение и запись файлов. Модуль Pickle
       (https://www.python-course.eu/python3_file_management.php)
   2. Система импорта модулей в Python
@@ -120,13 +117,9 @@
       (https://iq-inc.com/importerror-attempted-relative-import/)
   6. Исключения
       (https://www.python-course.eu/python3_exception_handling.php)
-
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 5
-
-   #### Лекция 9
- 
+   
+   #### Лекция 8   
+    
   1. ООП. Основные идеи. Зачем?
       (https://www.python-course.eu/python3_object_oriented_programming.php)
   2. Классы, объекты (class instances), атрибуты, методы
@@ -137,17 +130,13 @@
       (https://www.python-course.eu/python3_properties.php)
   5. Дескрипторы
       (https://www.python-course.eu/python3_descriptors.php) 
- 
-   #### Лекция 10
-   
-  Защита дз 6-9
-      
+
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
-## week 6
+## week 5
 
-   #### Лекция 11
-
+   #### Лекция 9
+ 
   1. Наследование
       (https://www.python-course.eu/python3_inheritance.php)
   2. Пример с наследованием
@@ -160,9 +149,9 @@
       (https://www.python-course.eu/python3_magic_methods.php)
   6. Значения underscore в Python
       (https://dbader.org/blog/meaning-of-underscores-in-python)
-      
-   #### Лекция 12
-   
+ 
+   #### Лекция 10
+
   1. Callable классы
       (https://www.python-course.eu/callable_instances.php)
   2. Слоты (slots)
@@ -174,9 +163,9 @@
       
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
-## week 7
+## week 6
 
-   #### Лекция 13
+   #### Лекция 11
 
   1. Взаимосвязь между class и type
       (https://www.python-course.eu/python3_classes_and_type.php)
@@ -190,18 +179,10 @@
       (https://www.python-course.eu/python3_iterable_iterator.php)
   6. Итераторы и генераторы
       (https://www.python-course.eu/python3_generators.php)
-
-   #### Лекция 14
+      
+   #### Лекция 12
    
   1. collections
   2. itertools
   3. requests
   4. re
-
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 8
-
-   #### Лекция 15
-  
-  Защита дз 11-14
