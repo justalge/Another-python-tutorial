@@ -92,7 +92,7 @@
   
   1. Встроенная сортировка в Python
   2. Лямбда функции, filter, reduce, map, zip
-      (https://www.python-course.eu/python3_list_comprehension.php)   
+      (https://www.python-course.eu/python3_lambda.php)   
   3. Рекурсия. Мемоизация
       (https://www.python-course.eu/python3_recursive_functions.php)
   4. Ханойские башни
