@@ -90,6 +90,8 @@
       
    #### Лекция 6
   
+  https://colab.research.google.com/drive/1Bcgfn_mENz99noWh3TdyEKtuwgt64Eqt?usp=sharing
+  
   1. Встроенная сортировка в Python
   2. Лямбда функции, filter, reduce, map, zip
       (https://www.python-course.eu/python3_lambda.php)   
