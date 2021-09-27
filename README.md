@@ -116,7 +116,7 @@
   3. Пакеты в Python
       (https://www.python-course.eu/python3_packages.php)
   4. Relative import errors
-      (https://iq-inc.com/importerror-attempted-relative-import/)
+      (https://napuzba.com/a/import-error-relative-no-parent, https://iq-inc.com/importerror-attempted-relative-import/)
   6. Исключения
       (https://www.python-course.eu/python3_exception_handling.php)
    
