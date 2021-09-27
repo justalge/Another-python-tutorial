@@ -108,7 +108,9 @@
 ## week 4
       
    #### Лекция 7
-
+  
+  https://colab.research.google.com/drive/1bKyeYmzLAD-qHJ7ly37MX82ReaKOC2xd?usp=sharing
+  
   1. Чтение и запись файлов. Модуль Pickle
       (https://www.python-course.eu/python3_file_management.php)
   2. Система импорта модулей в Python
