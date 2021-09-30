@@ -123,7 +123,9 @@
       (https://www.python-course.eu/python3_exception_handling.php)
    
    #### Лекция 8   
-    
+  
+  https://colab.research.google.com/drive/1pbc3eADAkIzqyulfhefV3FaD5fLGVtqt?usp=sharing
+  
   1. ООП. Основные идеи. Зачем?
       (https://www.python-course.eu/python3_object_oriented_programming.php)
   2. Классы, объекты (class instances), атрибуты, методы
