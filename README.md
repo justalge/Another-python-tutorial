@@ -128,12 +128,12 @@
       (https://www.python-course.eu/python3_object_oriented_programming.php)
   2. Классы, объекты (class instances), атрибуты, методы
       (https://www.python-course.eu/python3_class_and_instance_attributes.php)
-  3. Декораторы классов
+  3. Значения underscore в Python
+      (https://dbader.org/blog/meaning-of-underscores-in-python)
+  4. Декораторы классов
       (https://www.python-course.eu/python3_decorators.php)
-  4. Свойства объектов (properties). Getters и setters
+  5. Свойства объектов (properties). Getters и setters
       (https://www.python-course.eu/python3_properties.php)
-  5. Дескрипторы
-      (https://www.python-course.eu/python3_descriptors.php) 
 
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
@@ -141,18 +141,19 @@
 
    #### Лекция 9
  
-  1. Наследование
+  1. Дескрипторы
+      (https://www.python-course.eu/python3_descriptors.php)
+  2. Наследование
       (https://www.python-course.eu/python3_inheritance.php)
-  2. Пример с наследованием
+  3. Пример с наследованием
       (https://www.python-course.eu/python3_inheritance_example.php)  
-  3. Множественное наследование
+  4. Множественное наследование
       (https://www.python-course.eu/python3_multiple_inheritance.php)
-  4. Пример с множественным наследованием
+  5. Пример с множественным наследованием
       (https://www.python-course.eu/python3_multiple_inheritance_example.php)
-  5. Magic-методы и перегрузка операторов
+  6. Magic-методы и перегрузка операторов
       (https://www.python-course.eu/python3_magic_methods.php)
-  6. Значения underscore в Python
-      (https://dbader.org/blog/meaning-of-underscores-in-python)
+
  
    #### Лекция 10
 
