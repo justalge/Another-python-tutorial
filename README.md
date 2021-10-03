@@ -24,9 +24,7 @@
   4. [Вещественные числа в Python](https://tirinox.ru/float-python/)
   5. [Форматированный вывод](https://www.python-course.eu/python3_formatted_output.php)
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 2
+## 🐍🐍🐍🐍🐍🐍🐍🐍🐍 week2
 
    #### Лекция 3
 
@@ -48,9 +46,7 @@
   3. [Примеры использования множеств](https://www.python-course.eu/python_sets_example.php)
   4. [Примеры с использованием циклов и словарей](https://www.python-course.eu/working_with_python_dictionaries.php)
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 3
+## 🐍🐍🐍🐍🐍🐍🐍🐍🐍 week3
 
    #### Лекция 5
    
@@ -73,9 +69,7 @@
   5. [Backtracking](https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/)
   6. [Сведение рекурсии к итерации. Tailing recursion](https://leetcode.com/explore/learn/card/recursion-ii/503/recursion-to-iteration/) 
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 4
+## 🐍🐍🐍🐍🐍🐍🐍🐍🐍 week4
       
    #### Лекция 7
   
@@ -97,9 +91,7 @@
   4. [Декораторы классов](https://www.python-course.eu/python3_decorators.php)
   5. [Свойства объектов (properties). Getters и setters](https://www.python-course.eu/python3_properties.php)
 
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
-
-## week 5
+## 🐍🐍🐍🐍🐍🐍🐍🐍🐍 week5
 
    #### Лекция 9
  
@@ -117,10 +109,8 @@
   2. [Слоты (slots)](https://www.python-course.eu/python3_slots.php)
   3. [Пример класса для полиномиальных функций](https://www.python-course.eu/polynomial_class_in_python.php)  
   4. [Abstract base classes (ABC)](https://www.python-course.eu/python3_abstract_classes.php)
-      
-🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
-## week 6
+## 🐍🐍🐍🐍🐍🐍🐍🐍🐍 week6
 
    #### Лекция 11
 
