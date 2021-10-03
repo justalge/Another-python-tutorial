@@ -8,20 +8,12 @@
  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_1_arithmetics.ipynb)
   
-  [sdlkfjsk](https://www.python-course.eu/python3_history_and_philosophy.php)
-  
-  1. Пара слов о возникновении языка. Некоторые различия Python2 и Python3
-      (https://www.python-course.eu/python3_history_and_philosophy.php)
-  2. Знакомство с python shell
-      (https://www.python-course.eu/python3_interactive.php)
-  3. Запуск python скрипта из командной строки, .pyc файлы, интерпретаторы и компиляторы
-      (https://www.python-course.eu/python3_execute_script.php)
-  4. Структурирование при помощи отступов
-      (https://www.python-course.eu/python3_blocks.php)
-  5. Целые числа, арифметические операторы и операторы сравнения
-      (https://www.python-course.eu/python3_operators.php)
-  6. Input и output
-      (https://www.python-course.eu/python3_input.php, https://www.python-course.eu/python3_print.php)
+  1. [Пара слов о возникновении языка. Некоторые различия Python2 и Python3](https://www.python-course.eu/python3_history_and_philosophy.php)
+  2. [Знакомство с python shell](https://www.python-course.eu/python3_interactive.php)
+  3. [Запуск python скрипта из командной строки, .pyc файлы, интерпретаторы и компиляторы](https://www.python-course.eu/python3_execute_script.php)
+  4. [Структурирование при помощи отступов](https://www.python-course.eu/python3_blocks.php)
+  5. [Целые числа, арифметические операторы и операторы сравнения](https://www.python-course.eu/python3_operators.php)
+  6. [Input и output](https://www.python-course.eu/python3_input.php, https://www.python-course.eu/python3_print.php)
 
    #### Лекция 2
    
