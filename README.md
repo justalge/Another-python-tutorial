@@ -88,7 +88,7 @@
   1. [ООП. Основные идеи. Зачем?](https://www.python-course.eu/python3_object_oriented_programming.php)
   2. [Классы, объекты (class instances), атрибуты, методы](https://www.python-course.eu/python3_class_and_instance_attributes.php)
   3. [Значения underscore в Python](https://dbader.org/blog/meaning-of-underscores-in-python)
-  4. [Декораторы классов](https://www.python-course.eu/python3_decorators.php)
+  4. [Классы-декораторы](https://www.python-course.eu/python3_decorators.php)
   5. [Свойства объектов (properties). Getters и setters](https://www.python-course.eu/python3_properties.php)
 
 ## 🐍🐍🐍🐍🐍🐍🐍 week5
