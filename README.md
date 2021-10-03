@@ -13,7 +13,7 @@
   3. [Запуск python скрипта из командной строки, .pyc файлы, интерпретаторы и компиляторы](https://www.python-course.eu/python3_execute_script.php)
   4. [Структурирование при помощи отступов](https://www.python-course.eu/python3_blocks.php)
   5. [Целые числа, арифметические операторы и операторы сравнения](https://www.python-course.eu/python3_operators.php)
-  6. [Input и output](https://www.python-course.eu/python3_input.php, https://www.python-course.eu/python3_print.php)
+  6. [Input](https://www.python-course.eu/python3_input.php) и [output](https://www.python-course.eu/python3_print.php)
 
    #### Лекция 2
    
