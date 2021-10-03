@@ -6,7 +6,7 @@
 
    #### Лекция 1
  
-  [![Open In Colab Lecture 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_1_Arithmetics.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_1_Arithmetics.ipynb)
   
   1. Пара слов о возникновении языка. Некоторые различия Python2 и Python3
       (https://www.python-course.eu/python3_history_and_philosophy.php)
@@ -23,7 +23,7 @@
 
    #### Лекция 2
    
-  [![Open In Colab Lecture 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_2_if%2C_for%2C_while%2C_float%2C_formatted_output.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_2_if%2C_for%2C_while%2C_float%2C_formatted_output.ipynb)
   
   1. Условные выражения
       (https://www.python-course.eu/python3_conditional_statements.php)
