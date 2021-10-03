@@ -6,7 +6,7 @@
 
    #### Лекция 1
  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_1_Arithmetics.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_1_arithmetics.ipynb)
   
   1. Пара слов о возникновении языка. Некоторые различия Python2 и Python3
       (https://www.python-course.eu/python3_history_and_philosophy.php)
@@ -23,7 +23,7 @@
 
    #### Лекция 2
    
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_2_if%2C_for%2C_while%2C_float%2C_formatted_output.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_2_if_for_while_float_formatted_output.ipynb)
   
   1. Условные выражения
       (https://www.python-course.eu/python3_conditional_statements.php)
@@ -40,8 +40,8 @@
 ## week 2
 
    #### Лекция 3
-   
-  https://colab.research.google.com/drive/1WwGAOzmL-dADihr9nN0R54578x8c_ac5?usp=sharing
+
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week2/Lecture_3_types_sequential_copy.ipynb)
    
   1. **(!)** Переменные в python и типы данных
       (https://www.python-course.eu/python3_variables.php)
@@ -58,7 +58,7 @@
  
    #### Лекция 4
    
-  https://colab.research.google.com/drive/1d1pu_Y80Fuj3TWec9xyhI5X2LBT_rmiw?usp=sharing
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week2/Lecture_4_dictionaries_and_sets.ipynb)
     
   1. Словари (dictionaries)
       (https://www.python-course.eu/python3_dictionaries.php)
@@ -75,7 +75,7 @@
 
    #### Лекция 5
    
-  https://colab.research.google.com/drive/1vBdfg0YimUpBOjUFUmbYtGaEiozwE2E1?usp=sharing
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week3/Lecture_5_functions_namespaces.ipynb)
   
   1. Функции
       (https://www.python-course.eu/python3_functions.php)
@@ -90,7 +90,7 @@
       
    #### Лекция 6
   
-  https://colab.research.google.com/drive/1Bcgfn_mENz99noWh3TdyEKtuwgt64Eqt?usp=sharing
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week3/Lecture_6_lambda_recursion.ipynb)
   
   1. Встроенная сортировка в Python
   2. Лямбда функции, filter, reduce, map, zip
@@ -109,7 +109,7 @@
       
    #### Лекция 7
   
-  https://colab.research.google.com/drive/1bKyeYmzLAD-qHJ7ly37MX82ReaKOC2xd?usp=sharing
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week4/Lecture_7_files_packages_exceptions.ipynb)
   
   1. Чтение и запись файлов. Модуль Pickle
       (https://www.python-course.eu/python3_file_management.php)
@@ -124,7 +124,7 @@
    
    #### Лекция 8   
   
-  https://colab.research.google.com/drive/1pbc3eADAkIzqyulfhefV3FaD5fLGVtqt?usp=sharing
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week4/Lecture_8_OOP.ipynb)
   
   1. ООП. Основные идеи. Зачем?
       (https://www.python-course.eu/python3_object_oriented_programming.php)
