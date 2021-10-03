@@ -92,16 +92,11 @@
   
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week4/Lecture_8_OOP.ipynb)
   
-  1. ООП. Основные идеи. Зачем?
-      (https://www.python-course.eu/python3_object_oriented_programming.php)
-  2. Классы, объекты (class instances), атрибуты, методы
-      (https://www.python-course.eu/python3_class_and_instance_attributes.php)
-  3. Значения underscore в Python
-      (https://dbader.org/blog/meaning-of-underscores-in-python)
-  4. Декораторы классов
-      (https://www.python-course.eu/python3_decorators.php)
-  5. Свойства объектов (properties). Getters и setters
-      (https://www.python-course.eu/python3_properties.php)
+  1. [ООП. Основные идеи. Зачем?](https://www.python-course.eu/python3_object_oriented_programming.php)
+  2. [Классы, объекты (class instances), атрибуты, методы](https://www.python-course.eu/python3_class_and_instance_attributes.php)
+  3. [Значения underscore в Python](https://dbader.org/blog/meaning-of-underscores-in-python)
+  4. [Декораторы классов](https://www.python-course.eu/python3_decorators.php)
+  5. [Свойства объектов (properties). Getters и setters](https://www.python-course.eu/python3_properties.php)
 
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
@@ -109,30 +104,20 @@
 
    #### Лекция 9
  
-  1. Дескрипторы
-      (https://www.python-course.eu/python3_descriptors.php)
-  2. Наследование
-      (https://www.python-course.eu/python3_inheritance.php)
-  3. Пример с наследованием
-      (https://www.python-course.eu/python3_inheritance_example.php)  
-  4. Множественное наследование
-      (https://www.python-course.eu/python3_multiple_inheritance.php)
-  5. Пример с множественным наследованием
-      (https://www.python-course.eu/python3_multiple_inheritance_example.php)
-  6. Magic-методы и перегрузка операторов
-      (https://www.python-course.eu/python3_magic_methods.php)
+  1. [Дескрипторы](https://www.python-course.eu/python3_descriptors.php)
+  2. [Наследование](https://www.python-course.eu/python3_inheritance.php)
+  3. [Пример с наследованием](https://www.python-course.eu/python3_inheritance_example.php)  
+  4. [Множественное наследование](https://www.python-course.eu/python3_multiple_inheritance.php)
+  5. [Пример с множественным наследованием](https://www.python-course.eu/python3_multiple_inheritance_example.php)
+  6. [Magic-методы и перегрузка операторов](https://www.python-course.eu/python3_magic_methods.php)
 
  
    #### Лекция 10
 
-  1. Callable классы
-      (https://www.python-course.eu/callable_instances.php)
-  2. Слоты (slots)
-      (https://www.python-course.eu/python3_slots.php)
-  3. Пример класса для полиномиальных функций
-      (https://www.python-course.eu/polynomial_class_in_python.php)  
-  4. Abstract base classes (ABC)
-      (https://www.python-course.eu/python3_abstract_classes.php)
+  1. [Callable классы](https://www.python-course.eu/callable_instances.php)
+  2. [Слоты (slots)](https://www.python-course.eu/python3_slots.php)
+  3. [Пример класса для полиномиальных функций](https://www.python-course.eu/polynomial_class_in_python.php)  
+  4. [Abstract base classes (ABC)](https://www.python-course.eu/python3_abstract_classes.php)
       
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
@@ -140,18 +125,12 @@
 
    #### Лекция 11
 
-  1. Взаимосвязь между class и type
-      (https://www.python-course.eu/python3_classes_and_type.php)
-  2. Метаклассы. Мотивация
-      (https://www.python-course.eu/python3_road_to_metaclasses.php)
-  3. Метаклассы
-      (https://www.python-course.eu/python3_metaclasses.php)
-  4. Метаклассы. Пример использования
-      (https://www.python-course.eu/python3_count_function_calls.php)
-  5. Разница между iterator (итераторы) и iterable
-      (https://www.python-course.eu/python3_iterable_iterator.php)
-  6. Итераторы и генераторы
-      (https://www.python-course.eu/python3_generators.php)
+  1. [Взаимосвязь между class и type](https://www.python-course.eu/python3_classes_and_type.php)
+  2. [Метаклассы. Мотивация](https://www.python-course.eu/python3_road_to_metaclasses.php)
+  3. [Метаклассы](https://www.python-course.eu/python3_metaclasses.php)
+  4. [Метаклассы. Пример использования](https://www.python-course.eu/python3_count_function_calls.php)
+  5. [Разница между iterator (итераторы) и iterable](https://www.python-course.eu/python3_iterable_iterator.php)
+  6. [Итераторы и генераторы](https://www.python-course.eu/python3_generators.php)
       
    #### Лекция 12
    
