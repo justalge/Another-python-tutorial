@@ -3,6 +3,7 @@
 ## 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍 week 1
 
    #### Лекция 1
+   
  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_1_arithmetics.ipynb)
   
