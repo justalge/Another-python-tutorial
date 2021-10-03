@@ -8,6 +8,8 @@
  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_totorial/blob/main/week1/Lecture_1_arithmetics.ipynb)
   
+  ![sdlkfjsk](https://www.python-course.eu/python3_history_and_philosophy.php)
+  
   1. Пара слов о возникновении языка. Некоторые различия Python2 и Python3
       (https://www.python-course.eu/python3_history_and_philosophy.php)
   2. Знакомство с python shell
