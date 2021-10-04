@@ -94,7 +94,9 @@
 ## 🐍🐍🐍🐍🐍🐍🐍 week5
 
    #### Лекция 9
- 
+   
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_tutorial/blob/main/week5/Lecture_9_descriptors_inheritance_ipynb.ipynb)
+  
   1. [Дескрипторы](https://www.python-course.eu/python3_descriptors.php)
   2. [Наследование](https://www.python-course.eu/python3_inheritance.php)
   3. [Пример с наследованием](https://www.python-course.eu/python3_inheritance_example.php)  
