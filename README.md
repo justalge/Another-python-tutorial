@@ -108,8 +108,8 @@
    #### Лекция 10
 
   1. [Callable классы](https://www.python-course.eu/callable_instances.php)
-  2. [Контекстные менеджеры](https://www.geeksforgeeks.org/context-manager-in-python)
-  3. [Пример класса для полиномиальных функций](https://www.python-course.eu/polynomial_class_in_python.php)  
+  2. [Пример класса для полиномиальных функций](https://www.python-course.eu/polynomial_class_in_python.php)
+  3. [Контекстные менеджеры](https://www.geeksforgeeks.org/context-manager-in-python)
   4. [Слоты (slots)](https://www.python-course.eu/python3_slots.php)
   5. [Abstract base classes (ABC)](https://www.python-course.eu/python3_abstract_classes.php)
 
