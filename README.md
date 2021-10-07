@@ -106,6 +106,8 @@
 
  
    #### Лекция 10
+   
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_tutorial/blob/main/week5/Lecture_10_callable_context_managers_slots_ABC.ipynb)
 
   1. [Callable классы](https://www.python-course.eu/callable_instances.php)
   2. [Пример класса для полиномиальных функций](https://www.python-course.eu/polynomial_class_in_python.php)
