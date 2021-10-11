@@ -119,6 +119,8 @@
 
    #### Лекция 11
 
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_tutorial/blob/main/week6/Lecture_11_metaclasses_iterators.ipynb)
+  
   1. [Взаимосвязь между class и type](https://www.python-course.eu/python3_classes_and_type.php)
   2. [Метаклассы. Мотивация](https://www.python-course.eu/python3_road_to_metaclasses.php)
   3. [Метаклассы](https://www.python-course.eu/python3_metaclasses.php)
