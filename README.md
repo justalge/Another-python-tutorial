@@ -130,8 +130,9 @@
       
    #### Лекция 12
   Re: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_tutorial/blob/main/week6/Lecture_12_re.ipynb)
+  
   Requests: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justalge/another_python_tutorial/blob/main/week6/Lecture_12_requests.ipynb)
-  1. [collections](https://realpython.com/python-collections-module/
+  1. [collections](https://realpython.com/python-collections-module/)
   2. [itertools](https://realpython.com/python-itertools/)
   3. [requests](https://realpython.com/python-requests/)
   4. [re](https://www.python-course.eu/python3_re.php) and [here](https://www.python-course.eu/python3_re_advanced.php)
